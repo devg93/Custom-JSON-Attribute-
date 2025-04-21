@@ -1,0 +1,15 @@
+/home/neo/Desktop/Custom-JSON-Attribute-/JasonSerilizator/bin/Debug/net8.0/JasonSerilizator
+/home/neo/Desktop/Custom-JSON-Attribute-/JasonSerilizator/bin/Debug/net8.0/JasonSerilizator.deps.json
+/home/neo/Desktop/Custom-JSON-Attribute-/JasonSerilizator/bin/Debug/net8.0/JasonSerilizator.runtimeconfig.json
+/home/neo/Desktop/Custom-JSON-Attribute-/JasonSerilizator/bin/Debug/net8.0/JasonSerilizator.dll
+/home/neo/Desktop/Custom-JSON-Attribute-/JasonSerilizator/bin/Debug/net8.0/JasonSerilizator.pdb
+/home/neo/Desktop/Custom-JSON-Attribute-/JasonSerilizator/obj/Debug/net8.0/JasonSerilizator.GeneratedMSBuildEditorConfig.editorconfig
+/home/neo/Desktop/Custom-JSON-Attribute-/JasonSerilizator/obj/Debug/net8.0/JasonSerilizator.AssemblyInfoInputs.cache
+/home/neo/Desktop/Custom-JSON-Attribute-/JasonSerilizator/obj/Debug/net8.0/JasonSerilizator.AssemblyInfo.cs
+/home/neo/Desktop/Custom-JSON-Attribute-/JasonSerilizator/obj/Debug/net8.0/JasonSerilizator.csproj.CoreCompileInputs.cache
+/home/neo/Desktop/Custom-JSON-Attribute-/JasonSerilizator/obj/Debug/net8.0/JasonSerilizator.sourcelink.json
+/home/neo/Desktop/Custom-JSON-Attribute-/JasonSerilizator/obj/Debug/net8.0/JasonSerilizator.dll
+/home/neo/Desktop/Custom-JSON-Attribute-/JasonSerilizator/obj/Debug/net8.0/refint/JasonSerilizator.dll
+/home/neo/Desktop/Custom-JSON-Attribute-/JasonSerilizator/obj/Debug/net8.0/JasonSerilizator.pdb
+/home/neo/Desktop/Custom-JSON-Attribute-/JasonSerilizator/obj/Debug/net8.0/JasonSerilizator.genruntimeconfig.cache
+/home/neo/Desktop/Custom-JSON-Attribute-/JasonSerilizator/obj/Debug/net8.0/ref/JasonSerilizator.dll
